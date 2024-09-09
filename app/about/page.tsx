@@ -22,22 +22,9 @@ export default function About() {
       <div className="flex text-accent-4">
         <div>
           <p className="mb-4">
-            Victor is a dynamic and innovative software engineer with over six
-            years of experience in the tech industry. Specializing in full-stack
-            development, Victor combines a deep understanding of backend
-            technologies with a passion for front-end design, creating seamless
-            and efficient user experiences. His journey in the tech world began
-            with a Bachelor&apos;s degree in Computer Science, followed by a
-            rapid ascent through various roles, from junior developer to a lead
-            engineer.
+            Sara is a graphic designer currently based in Vienna.
           </p>
-          <p>
-            Victor&apos;s expertise lies in leveraging the latest technologies
-            to build scalable, responsive web applications and cloud-based
-            solutions. His skill set encompasses a wide range of technologies
-            including JavaScript (React.js, Node.js), Python, and cloud
-            platforms like AWS and Azure.
-          </p>
+          <p>She likes to explore new technologies and is starting to code.</p>
         </div>
       </div>
     </Container>

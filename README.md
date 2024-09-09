@@ -1,4 +1,4 @@
-![Next Starter Peacock](./.github/screenshot.png)
+# Next.js Portfolio
 
 # 🦚 Next Starter Peacock
 

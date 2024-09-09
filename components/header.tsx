@@ -12,12 +12,11 @@ export function Header() {
             {siteConfig.author.title}
           </h1>
           <p className="mb-4 text-lg text-accent-4">
-            I have 5 years experience as a software engineer, building tools and
-            products that help people achieve more.
+            I studied Graphic Design in Mainz and came to Vienna 5 years ago.
           </p>
 
           <p className="text-lg text-accent-4">
-            I have previously worked for companies like{' '}
+            I have previously worked for companies like bleed and FORA{' '}
             <NativeLink
               target="_blank"
               rel="noreferrer noopener"
